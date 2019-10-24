@@ -15,4 +15,5 @@ end
 # develope enviroment vs production enviroment.
 # sqlite3
 # pg 
+# huroku - eases uploading live to the web.
 
